@@ -232,7 +232,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureInASP.NetCoreWebAPI_CQRS_Mediator\\CleanArchWithCQRSandMediator\\Application\\Application.csproj": {
+                "projectPath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureInASP.NetCoreWebAPI_CQRS_Mediator\\CleanArchWithCQRSandMediator\\Application\\Application.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

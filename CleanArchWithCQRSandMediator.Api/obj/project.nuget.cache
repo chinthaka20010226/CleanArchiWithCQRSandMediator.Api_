@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZAOg93LvkEmjQcf/92o82auIBmqmo9n+ugeKyTbSd0ZQp7VVahXApjzuiiqEeLcTvN+ALhQBYk0l7dr6Snphpg==",
+  "dgSpecHash": "GAzVq/CgxQ2I8vi2MumJ1DzHRKDYN2EPbQtAcrQn+6q47zLTxRJ912SnlNO5oNS3vGhqbIdYVU/iubSbLfymlg==",
   "success": true,
   "projectFilePath": "D:\\new____\\project_\\ASP.NetCoreCleanArchitrcture_\\CleanArchitectureInASP.NetCoreWebAPI_CQRS_Mediator\\CleanArchWithCQRSandMediator\\CleanArchWithCQRSandMediator.Api\\CleanArchWithCQRSandMediator.Api.csproj",
   "expectedPackageFiles": [
